@@ -5,6 +5,7 @@
 		<p>
 			<img src="./images/image.png" style="width: 300px;" >
 		</p>
+		<router-view></router-view>
 	</div>
 </template>
 <script>
